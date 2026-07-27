@@ -1,17 +1,17 @@
 # Olá! Eu sou o Raphael Sinelli 👋
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas pela FIAP (conclusão prevista para Jul/2027).
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na FIAP.
 
 💻 Desenvolvedor Full Stack com foco em Java, React, TypeScript e Python.
 
-Atualmente desenvolvo aplicações web, APIs REST e soluções voltadas para problemas reais, utilizando bancos de dados relacionais, Docker e boas práticas de desenvolvimento.
-
----
+Tenho interesse em desenvolvimento de software e atualmente desenvolvo aplicações web, APIs REST e soluções voltadas para problemas reais.
 
 ## 🚀 Projetos em destaque
 
 ### LiftCurve
-Aplicação Full Stack para gerenciamento de treinos desenvolvida com Java (Quarkus), React, TypeScript e PostgreSQL.
+Aplicação Full Stack para gerenciamento de treinos.
+
+**Stack:** Java (Quarkus), React, TypeScript, PostgreSQL e Docker.
 
 🔗 https://liftcurve.vercel.app/login
 
@@ -19,7 +19,9 @@ Aplicação Full Stack para gerenciamento de treinos desenvolvida com Java (Quar
 
 ### Casa Sinelli
 
-Site institucional desenvolvido para a Casa Sinelli utilizando Next.js, TypeScript, Tailwind CSS e GSAP.
+Site institucional publicado em produção.
+
+**Stack:** Next.js, TypeScript, Tailwind CSS e GSAP.
 
 🔗 https://casasinelli.com.br
 
@@ -27,46 +29,18 @@ Site institucional desenvolvido para a Casa Sinelli utilizando Next.js, TypeScri
 
 ### Casa Sinelli Catálogo
 
-Automação em Python para geração de catálogos comerciais em PDF a partir da base de produtos.
+Pipeline em Python para geração automática de catálogos comerciais em PDF.
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
-**Back-end**
-
-- Java
-- Quarkus
-- Python
-- APIs REST
-- JWT
-
-**Front-end**
-
-- React
-- Next.js
-- TypeScript
-- Tailwind CSS
-
-**Banco de Dados**
-
-- PostgreSQL
-- Oracle SQL
-
-**Ferramentas**
-
-- Git
-- Docker
-- GitHub Actions
-- Vercel
-- Render
+Java • Quarkus • React • TypeScript • Python • PostgreSQL • Docker
 
 ---
 
-## 📫 Contato
+## Contato
 
 📧 raphaelsinelli@gmail.com
 
 💼 LinkedIn
-
-https://linkedin.com/in/raphael-sinelli-675310321
