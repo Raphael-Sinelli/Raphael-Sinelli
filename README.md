@@ -1,17 +1,72 @@
-### Olá, sou o Raphael 👋
+# Olá! Eu sou o Raphael Sinelli 👋
 
-Estudante de Análise e Desenvolvimento de Sistemas (FIAP), com foco em desenvolvimento front-end e full-stack.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas pela FIAP (conclusão prevista para Jul/2027).
 
-- 🔭 Trabalhando atualmente em projetos React/Next.js e APIs Java/Quarkus
-- 🎓 Cursando ADS na FIAP, previsão de conclusão em 06/2027
-- 💼 Site institucional em produção: [casasinelli.com.br](https://casasinelli.com.br)
-- 📫 Contato: raphaelsinelli@gmail.com | [LinkedIn](https://www.linkedin.com/in/raphael-sinelli-675310321/)
+💻 Desenvolvedor Full Stack com foco em Java, React, TypeScript e Python.
 
-**Stack:**
+Atualmente desenvolvo aplicações web, APIs REST e soluções voltadas para problemas reais, utilizando bancos de dados relacionais, Docker e boas práticas de desenvolvimento.
 
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=openjdk)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Oracle](https://img.shields.io/badge/-Oracle-black?style=flat-square&logo=oracle)
+---
+
+## 🚀 Projetos em destaque
+
+### LiftCurve
+Aplicação Full Stack para gerenciamento de treinos desenvolvida com Java (Quarkus), React, TypeScript e PostgreSQL.
+
+🔗 https://liftcurve.vercel.app/login
+
+---
+
+### Casa Sinelli
+
+Site institucional desenvolvido para a Casa Sinelli utilizando Next.js, TypeScript, Tailwind CSS e GSAP.
+
+🔗 https://casasinelli.com.br
+
+---
+
+### Casa Sinelli Catálogo
+
+Automação em Python para geração de catálogos comerciais em PDF a partir da base de produtos.
+
+---
+
+## 🛠️ Tecnologias
+
+**Back-end**
+
+- Java
+- Quarkus
+- Python
+- APIs REST
+- JWT
+
+**Front-end**
+
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
+
+**Banco de Dados**
+
+- PostgreSQL
+- Oracle SQL
+
+**Ferramentas**
+
+- Git
+- Docker
+- GitHub Actions
+- Vercel
+- Render
+
+---
+
+## 📫 Contato
+
+📧 raphaelsinelli@gmail.com
+
+💼 LinkedIn
+
+https://linkedin.com/in/raphael-sinelli-675310321
