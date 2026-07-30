@@ -37,6 +37,14 @@ Pipeline em Python para geração automática de catálogos comerciais em PDF.
 
 ---
 
+### QA Portfolio
+Suíte de testes de API e E2E contra sistemas reais em produção (LiftCurve,
+RepoMind) — RestAssured + Playwright, CI no GitHub Actions.
+**Stack:** Java (RestAssured), TypeScript (Playwright), GitHub Actions.
+🔗 https://github.com/Raphael-Sinelli/qa-portfolio
+
+---
+
 ## Tecnologias
 Java • Spring Boot • Quarkus • React • TypeScript • Python • PostgreSQL • Redis • Docker
 
