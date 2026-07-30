@@ -37,6 +37,13 @@ Pipeline em Python para geração automática de catálogos comerciais em PDF.
 
 ---
 
+### Econ Data Pipeline
+Pipeline de dados vivo que ingere indicadores econômicos (SELIC, IPCA, câmbio) da API do Banco Central diariamente via GitHub Actions, grava em PostgreSQL e alimenta um dashboard em produção.
+**Stack:** Python • pandas • PostgreSQL • Next.js.
+🔗 https://econ-data-pipeline-three.vercel.app
+
+---
+
 ### QA Portfolio
 Suíte de testes de API e E2E contra sistemas reais em produção (LiftCurve,
 RepoMind) — RestAssured + Playwright, CI no GitHub Actions.
