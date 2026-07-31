@@ -1,11 +1,17 @@
 # Olá! Eu sou o Raphael Sinelli 👋
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na FIAP.
-💻 Desenvolvedor Full Stack com foco em Java, React, TypeScript e Python.
-Tenho interesse em desenvolvimento de software e atualmente desenvolvo
-aplicações web, APIs REST e soluções voltadas para problemas reais.
+Desenvolvedor Full Stack em formação, construindo produtos reais em produção — não só exercícios de curso. Meu portfólio cobre autenticação OAuth2, integração com IA, pipelines de dados vivos e testes automatizados de ponta a ponta, com backend em Java (Quarkus e Spring Boot) e frontend em React/TypeScript.
+
+🎓 Análise e Desenvolvimento de Sistemas — FIAP
 
 ## 🚀 Projetos em destaque
+
+### LiftCurve
+Aplicação Full Stack para gerenciamento de treinos.
+**Stack:** Java (Quarkus), React, TypeScript, PostgreSQL e Docker.
+🔗 https://liftcurve.vercel.app/login
+
+---
 
 ### RepoMind
 Analisador de repositórios GitHub com tool use real de IA — o modelo
@@ -17,38 +23,30 @@ Redis, Spring Security OAuth2.
 🔗 https://repomind-flame.vercel.app
 
 ---
-
-### LiftCurve
-Aplicação Full Stack para gerenciamento de treinos.
-**Stack:** Java (Quarkus), React, TypeScript, PostgreSQL e Docker.
-🔗 https://liftcurve.vercel.app/login
-
----
-
-### Casa Sinelli
-Site institucional publicado em produção.
-**Stack:** Next.js, TypeScript, Tailwind CSS e GSAP.
-🔗 https://casasinelli.com.br
-
----
-
-### Casa Sinelli Catálogo
-Pipeline em Python para geração automática de catálogos comerciais em PDF.
-
----
-
 ### Econ Data Pipeline
 Pipeline de dados vivo que ingere indicadores econômicos (SELIC, IPCA, câmbio) da API do Banco Central diariamente via GitHub Actions, grava em PostgreSQL e alimenta um dashboard em produção.
 **Stack:** Python • pandas • PostgreSQL • Next.js.
 🔗 https://econ-data-pipeline-three.vercel.app
 
 ---
-
 ### QA Portfolio
 Suíte de testes de API e E2E contra sistemas reais em produção (LiftCurve,
 RepoMind) — RestAssured + Playwright, CI no GitHub Actions.
 **Stack:** Java (RestAssured), TypeScript (Playwright), GitHub Actions.
 🔗 https://github.com/Raphael-Sinelli/qa-portfolio
+
+---
+### Casa Sinelli
+Site institucional publicado em produção.
+**Stack:** Next.js, TypeScript, Tailwind CSS e GSAP.
+🔗 https://casasinelli.com.br
+
+
+---
+
+### Casa Sinelli Catálogo
+Pipeline em Python para geração automática de catálogos comerciais em PDF.
+**Stack:** Python
 
 ---
 
