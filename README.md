@@ -24,7 +24,7 @@
 
 ### Sobre mim
 
-Estudante de **Análise e Desenvolvimento de Sistemas** na FIAP (conclusão prevista em 2027), com atuação prática tanto em **desenvolvimento full-stack** (Java/Quarkus, Spring Boot, React/TypeScript) quanto em **dados** (Python, pandas, SQL analítico, ETL, estatística aplicada).
+Estudante de **Análise e Desenvolvimento de Sistemas** na FIAP, com atuação prática tanto em **desenvolvimento full-stack** (Java/Quarkus, Spring Boot, React/TypeScript) quanto em **dados** (Python, pandas, SQL analítico, ETL, estatística aplicada).
 
 Construí um portfólio com **seis projetos reais em produção**, incluindo uma plataforma full-stack com autenticação JWT, um analisador de repositórios com OAuth2 e infraestrutura em Terraform/AWS, e um pipeline de dados vivo que ingere indicadores econômicos do Banco Central diariamente.
 
