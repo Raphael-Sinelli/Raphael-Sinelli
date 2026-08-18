@@ -1,230 +1,198 @@
 <div align="center">
 
-<h1>Raphael Sinelli</h1>
-<h3>Software &amp; Data Engineer in training</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:120808,50:450A0A,100:1A0F0F&height=190&section=header&text=Raphael%20Sinelli&fontSize=44&fontColor=EF4444&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%C2%B7%20Dados%20%C2%B7%20QA&descSize=18&descAlignY=58&descAlign=50" width="100%"/>
 
-<a href="https://github.com/Raphael-Sinelli">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=620&lines=Estudante+de+ADS+%40+FIAP;Full-Stack+Developer+%7C+Java+%2F+React;Dados+%7C+Python+%2B+SQL+%2B+ETL;Construindo+projetos+reais+em+produ%C3%A7%C3%A3o" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3200&pause=900&color=EF4444&center=true&vCenter=true&width=620&lines=Estudante+de+ADS+%40+FIAP;Java+%2F+Quarkus+%2F+Spring+Boot+%2B+React+%2F+Next.js;Python+%2B+pandas+%2B+SQL+%2B+ETL;Seis+projetos+reais+em+produ%C3%A7%C3%A3o" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/FIAP-ADS%202027-000000?style=flat-square&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/Localização-Ribeirão%20Pires%2C%20SP-334155?style=flat-square&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/FIAP-ADS%20·%20Jul%2F2027-EF4444?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Ribeirão%20Pires-SP%2C%20Brasil-EF4444?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Status-Buscando%20estágio-EF4444?style=flat-square&labelColor=0D1117"/>
 
 <br/><br/>
 
 <a href="https://linkedin.com/in/raphael-sinelli"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:raphaelsinelli@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/Raphael-Sinelli"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:raphaelsinelli@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
 ---
 
-### Sobre mim
+## Sobre mim
 
-Estudante de **Análise e Desenvolvimento de Sistemas** na FIAP, com atuação prática tanto em **desenvolvimento full-stack** (Java/Quarkus, Spring Boot, React/TypeScript) quanto em **dados** (Python, pandas, SQL analítico, ETL, estatística aplicada).
+Estudo Análise e Desenvolvimento de Sistemas na FIAP, com conclusão prevista para julho de 2027. Trabalho em duas frentes: **desenvolvimento full-stack** com Java (Quarkus, Spring Boot) e React/Next.js, e **dados** com Python, pandas, SQL analítico e estatística aplicada.
 
-Construí um portfólio com **seis projetos reais em produção**, incluindo uma plataforma full-stack com autenticação JWT, um analisador de repositórios com OAuth2 e infraestrutura em Terraform/AWS, e um pipeline de dados vivo que ingere indicadores econômicos do Banco Central diariamente.
+Tenho seis projetos rodando em produção. Entre eles, uma plataforma de treinos com autenticação JWT e refresh token, um analisador de repositórios GitHub com OAuth2 real e infraestrutura AWS versionada em Terraform, e um pipeline que ingere indicadores do Banco Central todos os dias via GitHub Actions e alimenta um dashboard de séries históricas.
 
-No dia a dia, também sou responsável pelo desenvolvimento e manutenção do site institucional da empresa onde trabalho, além da gestão de campanhas de Meta Ads e automação do catálogo digital.
+No trabalho, cuido do site institucional da empresa: desenvolvimento, manutenção, campanhas de Meta Ads e automação do catálogo digital em Python.
 
-```txt
-🎯 Open to: Vaga em Desenvolvimento (Front-end, Back-end ou Full-Stack), Dados ou DevOps
-🗣️ Idiomas: Português (nativo) · Inglês (avançado) · Alemão (básico)
+```yaml
+objetivo:        Estágio em Desenvolvimento (Front, Back ou Full-Stack), Dados ou QA
+disponibilidade: Presencial, híbrido ou remoto
+idiomas:         Português (nativo) · Inglês (avançado) · Alemão (básico)
 ```
 
 ---
 
-### Projetos em Destaque
+## Stack técnica
 
-<details open>
-<summary><b>📊 Econ Data Pipeline</b></summary>
-<br/>
+<div align="center">
 
-Pipeline de dados vivo que ingere indicadores econômicos (SELIC, IPCA, câmbio) da API do Banco Central diariamente via GitHub Actions, com tratamento e validação em pandas — incluindo anualização da taxa SELIC via juros compostos — persistência em PostgreSQL e dashboard de visualização de séries históricas em produção.
+<sub><b>LINGUAGENS</b></sub>
+<br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="44" alt="Java" title="Java"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/python/3776AB" height="44" alt="Python" title="Python"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/typescript/3178C6" height="44" alt="TypeScript" title="TypeScript"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="44" alt="JavaScript" title="JavaScript"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/html5/E34F26" height="44" alt="HTML5" title="HTML5"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/css/663399" height="44" alt="CSS" title="CSS"/>
 
-| | |
-|---|---|
-| **Stack** | Python · pandas · PostgreSQL (Neon) · Next.js |
-| **Automação** | GitHub Actions (ingestão diária agendada) |
-| **Deploy** | [econ-data-pipeline-three.vercel.app](https://econ-data-pipeline-three.vercel.app) |
+<br/><br/>
 
-</details>
+<sub><b>FRONT-END</b></sub>
+<br/><br/>
+<img src="https://cdn.simpleicons.org/react/61DAFB" height="44" alt="React" title="React"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/nextdotjs/000000/FFFFFF" height="44" alt="Next.js" title="Next.js"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/vite/646CFF" height="44" alt="Vite" title="Vite"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="44" alt="Tailwind CSS" title="Tailwind CSS"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/reactquery/FF4154" height="44" alt="TanStack Query" title="TanStack Query"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/reacthookform/EC5990" height="44" alt="React Hook Form" title="React Hook Form"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/reactrouter/CA4245" height="44" alt="React Router" title="React Router"/>
 
-<details>
-<summary><b>🏋️ LiftCurve</b></summary>
-<br/>
+<br/><br/>
 
-Aplicação full stack para gerenciamento de treinos, com autenticação JWT e refresh token, testes automatizados e CI/CD completo.
+<sub><b>BACK-END</b></sub>
+<br/><br/>
+<img src="https://cdn.simpleicons.org/quarkus/4695EB" height="44" alt="Quarkus" title="Quarkus"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/springboot/6DB33F" height="44" alt="Spring Boot" title="Spring Boot"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/flask/000000/FFFFFF" height="44" alt="Flask" title="Flask"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/jsonwebtokens/000000/FFFFFF" height="44" alt="JWT" title="JWT"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/auth0/EB5424" height="44" alt="OAuth2" title="OAuth2"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/swagger/85EA2D" height="44" alt="Swagger / OpenAPI" title="Swagger / OpenAPI"/>
 
-| | |
-|---|---|
-| **Stack** | Java 21 (Quarkus) · React 19 · TypeScript · PostgreSQL · Docker |
-| **Testes** | JUnit 5, Testcontainers, Vitest |
-| **CI/CD** | GitHub Actions |
-| **Deploy** | [liftcurve.vercel.app](https://liftcurve.vercel.app/login) |
+<br/><br/>
 
-</details>
+<sub><b>DADOS &amp; BANCO DE DADOS</b></sub>
+<br/><br/>
+<img src="https://cdn.simpleicons.org/postgresql/4169E1" height="44" alt="PostgreSQL" title="PostgreSQL"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" height="44" alt="Oracle SQL" title="Oracle SQL"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/redis/FF4438" height="44" alt="Redis" title="Redis"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/pandas/150458/E0E0E0" height="44" alt="pandas" title="pandas"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/numpy/4D77CF" height="44" alt="NumPy" title="NumPy"/>
 
-<details>
-<summary><b>🔍 RepoMind</b></summary>
-<br/>
+<br/><br/>
 
-Analisador de repositórios GitHub com tool use real de IA — o modelo decide quais ferramentas chamar (commits, README, issues) num loop de agente, não um prompt único. OAuth2 real com GitHub, cache por commit SHA e infraestrutura versionada em Terraform.
+<sub><b>TESTES &amp; QUALIDADE</b></sub>
+<br/><br/>
+<img src="https://cdn.simpleicons.org/junit5/25A162" height="44" alt="JUnit 5" title="JUnit 5"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/vitest/6E9F18" height="44" alt="Vitest" title="Vitest"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" height="44" alt="Playwright" title="Playwright"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/openapiinitiative/6BA539" height="44" alt="REST Assured" title="REST Assured"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/docker/2496ED" height="44" alt="Testcontainers" title="Testcontainers"/>
 
-| | |
-|---|---|
-| **Stack** | Java 21 (Spring Boot) · Spring Security OAuth2 · React 19 · TypeScript · PostgreSQL · Redis |
-| **Infra** | AWS (VPC, RDS, ECS Fargate) via Terraform |
-| **Deploy** | [repomind-flame.vercel.app](https://repomind-flame.vercel.app) |
+<br/><br/>
 
-</details>
+<sub><b>CLOUD, DEVOPS &amp; FERRAMENTAS</b></sub>
+<br/><br/>
+<img src="https://cdn.simpleicons.org/git/F05032" height="44" alt="Git" title="Git"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/github/181717/FFFFFF" height="44" alt="GitHub" title="GitHub"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/githubactions/2088FF" height="44" alt="GitHub Actions" title="GitHub Actions"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/docker/2496ED" height="44" alt="Docker" title="Docker"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/terraform/7B42BC" height="44" alt="Terraform" title="Terraform"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="44" alt="AWS" title="AWS"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/vercel/000000/FFFFFF" height="44" alt="Vercel" title="Vercel"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/render/46E3B7" height="44" alt="Render" title="Render"/>
 
-<details>
-<summary><b>✅ QA Portfolio</b></summary>
-<br/>
+</div>
+
+---
+
+## Projetos em produção
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Econ Data Pipeline**
+
+Ingere SELIC, IPCA e câmbio da API do Banco Central todos os dias via GitHub Actions. Tratamento e validação em pandas (incluindo anualização da SELIC por juros compostos), persistência em PostgreSQL e dashboard de séries históricas em Next.js.
+
+`Python` `pandas` `PostgreSQL` `Next.js` `GitHub Actions`
+
+<a href="https://econ-data-pipeline-three.vercel.app">Ver projeto →</a>
+
+</td>
+<td width="50%" valign="top">
+
+**LiftCurve**
+
+Plataforma full-stack de gerenciamento de treinos com autenticação JWT e refresh token, testes em JUnit 5, Testcontainers e Vitest, e pipeline de CI/CD via GitHub Actions.
+
+`Java 21` `Quarkus` `React 19` `TypeScript` `Docker`
+
+<a href="https://liftcurve.vercel.app">Ver projeto →</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**RepoMind**
+
+Analisador de repositórios GitHub com login OAuth2 real e IA em tool-use loop: o modelo decide quais ferramentas chamar. Cache por commit SHA no Redis e infraestrutura AWS (VPC, RDS, ECS Fargate) versionada em Terraform.
+
+`Java 21` `Spring Boot` `OAuth2` `Redis` `Terraform`
+
+<a href="https://repomind-flame.vercel.app">Ver projeto →</a>
+
+</td>
+<td width="50%" valign="top">
+
+**QA Portfolio**
 
 Suíte independente de testes de API e E2E contra sistemas reais em produção (LiftCurve e RepoMind), com CI automatizado e estratégia de teste documentada.
 
-| | |
-|---|---|
-| **Stack** | Playwright · RestAssured · TypeScript · Java |
-| **Repositório** | [github.com/Raphael-Sinelli/qa-portfolio](https://github.com/Raphael-Sinelli/qa-portfolio) |
+`Playwright` `RestAssured` `TypeScript` `Java`
 
-</details>
+<a href="https://github.com/Raphael-Sinelli/qa-portfolio">Ver repositório →</a>
 
-<details>
-<summary><b>🛋️ Site Casa Sinelli</b></summary>
-<br/>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
-Site institucional em produção com catálogo de mais de 120 produtos, foco em SEO, performance e responsividade — utilizado diariamente pela empresa.
+**Site Casa Sinelli**
 
-| | |
-|---|---|
-| **Stack** | Next.js · TypeScript · Tailwind CSS · GSAP |
-| **Deploy** | [casasinelli.com.br](https://casasinelli.com.br) |
+Site institucional com catálogo de mais de 120 produtos, usado diariamente pela empresa. Foco em SEO, performance e responsividade.
 
-</details>
+`Next.js` `TypeScript` `Tailwind` `GSAP`
 
----
+<a href="https://www.casasinelli.com.br/">Ver site →</a>
 
-### Foco em Dados
-
-| Domínio | Ferramentas | Aplicação |
-|---|---|---|
-| Ingestão de dados | Python, API Banco Central | Pipeline diário automatizado via GitHub Actions |
-| Tratamento de dados | pandas | Anualização de taxas via juros compostos, validação e limpeza |
-| Persistência | PostgreSQL (Neon) | Modelagem relacional (DER/MER) de séries históricas |
-| Análise estatística | SciPy / testes de hipótese | Correlação de Spearman, testes de Kruskal-Wallis, detecção de outliers |
-| Visualização | Next.js, Power BI (noções) | Dashboards de séries históricas e métricas de negócio |
+</td>
+</tr>
+</table>
 
 ---
 
-### Stack Técnica
+## Experiência
 
-<div align="center">
+**Desenvolvedor Web · Administrativo · Atendimento** — Casa Sinelli
+<br/><sub>Dez/2025 — Atual</sub>
 
-**Linguagens**
+Desenvolvimento e manutenção do site institucional, melhorias na plataforma e gestão de campanhas Meta Ads. Também atuo no atendimento ao cliente, na organização do catálogo digital (automatizado em Python) e no apoio administrativo.
+
 <br/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 
-**Front-end**
-<br/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
-<img src="https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white"/>
-<img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white"/>
+**Operador de Teleatendimento** — PersonalCob
+<br/><sub>Jan/2025 — Dez/2025</sub>
 
-**Back-end**
-<br/>
-<img src="https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat-square"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=auth0&logoColor=white"/>
-<img src="https://img.shields.io/badge/Swagger%2FOpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black"/>
-
-**Banco de Dados**
-<br/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat-square&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/DER%2FMER-4169E1?style=flat-square"/>
-
-**Dados & Análise**
-<br/>
-<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/ETL-4169E1?style=flat-square"/>
-<img src="https://img.shields.io/badge/Estatística%20Aplicada-4169E1?style=flat-square"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-
-**Testes & Qualidade**
-<br/>
-<img src="https://img.shields.io/badge/JUnit%205-25A162?style=flat-square&logo=junit5&logoColor=white"/>
-<img src="https://img.shields.io/badge/Testcontainers-1D63ED?style=flat-square&logo=testcontainers&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white"/>
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
-<img src="https://img.shields.io/badge/RestAssured-25A162?style=flat-square"/>
-
-**Cloud, DevOps & Ferramentas**
-<br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white"/>
-
-</div>
+Atendimento de alto volume, negociação de demandas, resolução de problemas e cumprimento de metas operacionais.
 
 ---
 
-### Experiência Profissional
-
-**Desenvolvedor Web · Administrativo · Atendimento**
-`Dez/2025 — Atual`
-
-Desenvolvimento e manutenção do site institucional, implementação de melhorias na plataforma e gerenciamento de campanhas Meta Ads. Também atuo no atendimento ao cliente, organização do catálogo digital (automatizado em Python) e apoio às atividades administrativas.
-
-`Next.js` `TypeScript` `Meta Ads` `Python` `Atendimento ao cliente`
-
-<br/>
-
-**Operador de Teleatendimento — PersonalCob**
-`Jan/2025 — Dez/2025`
-
-Atendimento de alto volume de clientes, negociação de demandas, resolução de problemas e cumprimento de metas operacionais.
-
-`Comunicação` `Organização` `Trabalho sob pressão`
-
----
-
-### Certificações
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/HackerRank-Software%20Engineer-2EC866?style=flat-square&logo=hackerrank&logoColor=white"/>
-<img src="https://img.shields.io/badge/HackerRank-Frontend%20Developer%20(React)-2EC866?style=flat-square&logo=hackerrank&logoColor=white"/>
-<img src="https://img.shields.io/badge/HackerRank-SQL-2EC866?style=flat-square&logo=hackerrank&logoColor=white"/>
-
-</div>
-
----
-
-### Formação
+## Formação e certificações
 
 | Instituição | Curso | Status |
 |---|---|---|
@@ -232,49 +200,43 @@ Atendimento de alto volume de clientes, negociação de demandas, resolução de
 | ETEC Ribeirão Pires "Maria Cristina Medeiros" | Técnico em Química | Concluído Jul/2024 |
 | Colégio Clarassoti | Ensino Médio | Concluído 2024 |
 
----
-
-### GitHub Analytics
-
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Raphael-Sinelli&theme=tokyonight&hide_border=true&background=0d1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8&cache_seconds=86400"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Raphael-Sinelli&theme=react-dark&hide_border=true&bg_color=0d1117&color=38BDF8&line=38BDF8&point=ffffff&cache_seconds=86400"/>
+<br/>
+<a href="https://www.hackerrank.com/certificates/3638567b0ad8"><img src="https://img.shields.io/badge/Software%20Engineer-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/></a>
+<a href="https://www.hackerrank.com/certificates/ae5945f8e61d"><img src="https://img.shields.io/badge/Frontend%20(React)-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/></a>
+<a href="https://www.hackerrank.com/certificates/f7a836bb76bd"><img src="https://img.shields.io/badge/SQL-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/></a>
 
 </div>
 
 ---
 
-### Foco Atual
-
-```yaml
-Aprendendo: Estatística aplicada avançada, arquitetura de dados, AWS
-Construindo: Novos projetos de portfólio (dev + dados)
-Explorando: Oportunidades de vaga em desenvolvimento (front-end, back-end ou full-stack), dados e DevOps
-Aberto a: Vaga presencial, híbrida ou remota
-```
-
----
-
-### Conecte-se
+## Atividade no GitHub
 
 <div align="center">
 
-<a href="mailto:raphaelsinelli@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/raphael-sinelli"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/Raphael-Sinelli"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Raphael-Sinelli&show_icons=true&hide_border=true&bg_color=0D1117&title_color=EF4444&icon_color=EF4444&text_color=9BA3AF&cache_seconds=86400" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael-Sinelli&layout=compact&hide_border=true&bg_color=0D1117&title_color=EF4444&text_color=9BA3AF&langs_count=8&cache_seconds=86400" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Raphael-Sinelli&hide_border=true&bg_color=0D1117&color=FCA5A5&line=EF4444&point=FFFFFF&area=true&area_color=EF4444&title_color=EF4444" width="98%"/>
 
 </div>
 
 ---
 
+## Contato
+
 <div align="center">
 
-*"Código bem testado é a diferença entre achar que funciona e saber que funciona."*
+<a href="https://linkedin.com/in/raphael-sinelli"><img src="https://img.shields.io/badge/linkedin.com%2Fin%2Fraphael--sinelli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:raphaelsinelli@gmail.com"><img src="https://img.shields.io/badge/raphaelsinelli%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Raphael-Sinelli"><img src="https://img.shields.io/badge/Raphael--Sinelli-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+<sub>Aberto a oportunidades em Desenvolvimento, Dados e QA — presencial, híbrido ou remoto.</sub>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0F0F,50:450A0A,100:120808&height=110&section=footer" width="100%"/>
