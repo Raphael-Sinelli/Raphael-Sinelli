@@ -168,7 +168,7 @@ Site institucional com catálogo de mais de 120 produtos, usado diariamente pela
 
 `Next.js` `TypeScript` `Tailwind` `GSAP`
 
-<a href="https://www.casasinelli.com.br/">Ver site →</a>
+<a href="https://casasinelli.com.br">Ver site →</a>
 
 </td>
 </tr>
@@ -214,8 +214,8 @@ Atendimento de alto volume, negociação de demandas, resolução de problemas e
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Raphael-Sinelli&show_icons=true&hide_border=true&bg_color=0D1117&title_color=EF4444&icon_color=EF4444&text_color=9BA3AF&cache_seconds=86400" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael-Sinelli&layout=compact&hide_border=true&bg_color=0D1117&title_color=EF4444&text_color=9BA3AF&langs_count=8&cache_seconds=86400" />
+<img height="170" src="https://github-readme-stats-brown-xi-76.vercel.app/api?username=Raphael-Sinelli&show_icons=true&hide_border=true&hide_rank=true&bg_color=0D1117&title_color=EF4444&icon_color=EF4444&text_color=9BA3AF&cache_seconds=86402" />
+<img height="170" src="https://github-readme-stats-brown-xi-76.vercel.app/api/top-langs/?username=Raphael-Sinelli&layout=compact&hide_border=true&bg_color=0D1117&title_color=EF4444&text_color=9BA3AF&langs_count=8&cache_seconds=86401" />
 
 <br/><br/>
 
